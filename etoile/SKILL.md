@@ -129,3 +129,8 @@ Auth header:
 For exact payloads, limits, and response snippets, read:
 
 - `references/etoile-api-reference.md`
+
+## Links
+
+- Main site: `https://etoile.dev`
+- Docs: `https://etoile.dev/docs`
